@@ -4,7 +4,7 @@ title: खुश रहने के लिए रेसिपी
 author: Student
 categories: [Happiness, TED Talk]
 image: assets/images/19.png
-featured: true
+featured: false
 case_study: false
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: खुशहाली और रेसिलिएंस (प्रतिरोधक्षमता) के लिए बच्चों कोशिक्षित करना
 author: Student
 categories: [Happiness, TED Talk]
-image: assets/images/19.png
-featured: true
+image: assets/images/22.jpg
+featured: false
 case_study: false
 ---
 

@@ -4,7 +4,7 @@ title: "अच्छा जीवन"
 author: Student
 categories: [Happiness, TED Talk]
 image: assets/images/18.jpg
-featured: true
+featured: false
 comments: true
 case_study: true
 ---

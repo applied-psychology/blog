@@ -3,8 +3,8 @@ layout: post
 title: भावात्मक बुद्धि - एक कौशल जो हमारे विद्यार्थियों में हो
 author: Student
 categories: [Happiness, TED Talk]
-image: assets/images/19.png
-featured: true
+image: assets/images/21.jpg
+featured: false
 case_study: false
 ---
 
